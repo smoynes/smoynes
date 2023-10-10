@@ -2,7 +2,7 @@
 
 I think about computers a lot. I am currently working on:
 
-- 🌱 [`elsie`](smoynes/elsie): a virtual machine for the LC-3
+- 🌱 [ELSIE](https://github.com/smoynes/elsie): a virtual machine for the LC-3
 - 🤖 messing with microcontrollers
 - 🗒️ my manifesto on computing
 
