@@ -1,16 +1,19 @@
-### Hi there 👋
+# ⍨ Hi! ⍨ #
 
-<!--
-**smoynes/smoynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I think about computers a lot. I am currently working on:
 
-Here are some ideas to get you started:
+- 🌱 [`elsie`](smoynes/elsie): a virtual machine for the LC-3
+- 🤖 messing with microcontrollers
+- 🗒️ my manifesto on computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to computing, I like:
+
+- 📘 reading
+- 🚶 walking
+- 🚴 cycling
+
+> The information revolution and its consequences have been a disaster for the human race. ⌤
+
+# 📣 Get in touch 📣
+
+<tt>scott.moynes @ gmail.com</tt>
