@@ -12,8 +12,6 @@ In addition to computing, I like:
 - 🚶 walking
 - 🚴 cycling
 
-----
-
 > The information revolution and its consequences have been a disaster for the human race. ⌤
 
 ----
