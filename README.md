@@ -14,8 +14,6 @@ In addition to computing, I like:
 
 > The information revolution and its consequences have been a disaster for the human race. ⌤
 
-----
-
-# 📣 Get in touch 📣
+### 📣 Get in touch 📣 ###
 
 <tt>scott.moynes @ gmail.com</tt>
