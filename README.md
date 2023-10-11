@@ -12,10 +12,12 @@ In addition to computing, I like:
 - 🚶 walking
 - 🚴 cycling
 
-# 📣 Get in touch 📣
-
-<tt>scott.moynes @ gmail.com</tt>
-
 ----
 
 > The information revolution and its consequences have been a disaster for the human race. ⌤
+
+----
+
+# 📣 Get in touch 📣
+
+<tt>scott.moynes @ gmail.com</tt>
