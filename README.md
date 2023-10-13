@@ -1,5 +1,3 @@
-> The information revolution and its consequences have been a disaster for the human race.
-
 # ⍨ Hi! ⍨ #
 
 I think about computers a lot. I am currently working on:
@@ -8,12 +6,16 @@ I think about computers a lot. I am currently working on:
 - 🤖 messing with microcontrollers
 - 🗒️ my manifesto on computing
 
+
 In addition to computing, I like:
 
 - 📘 reading
 - 🚶 walking
 - 🚴 cycling
 
+<blockquote><samp>The information revolution and its consequences have been a disaster for the human race.</samp></blockquote>
+
 ### 📣 Get in touch 📣 ###
 
-<tt>scott.moynes @ gmail.com</tt>
+<kbd>scott.moynes @ gmail.com</kbd>
+
