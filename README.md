@@ -13,9 +13,9 @@ In addition to computing, I like:
 - 🚶 walking
 - 🚴 cycling
 
-<p><blockquote><samp>The information revolution and its consequences have been a disaster for the human race.</samp></blockquote></p>
-
 ### 📣 Get in touch 📣 ###
 
 <code>scott.moynes @ gmail.com</code>
+
+<p><blockquote><samp>The information revolution and its consequences have been a disaster for the human race.</samp></blockquote></p>
 
