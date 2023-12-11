@@ -18,5 +18,3 @@ In addition to computing, I like:
 
 - <code>scott.moynes @ gmail.com</code>
 - <code>[smoynes.omg.lol](https://smoynes.omg.lol)</code>
-
-proven0cd57d
